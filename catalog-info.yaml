@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demoapp
+  annotations:
+    github.com/project-slug: DaggupatiPavan/demoapp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: development
